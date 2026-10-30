@@ -1,0 +1,10 @@
+id: YDP496BT001-V1
+category: displays
+size: "4.96"
+panel: tft
+resolution: 720x1280
+interface: [mipi]
+driver: ILI9881C
+touch: null
+outline: 64.6 x 118.5 mm
+active_area: 110.42 x 61.78 mm
